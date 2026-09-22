@@ -1,0 +1,35 @@
+{
+    "training_subjects": [
+        "002",
+        "003",
+        "005",
+        "006",
+        "007",
+        "012",
+        "023",
+        "028"
+    ],
+    "validation_subjects": [
+        "010"
+    ],
+    "test_subjects": [
+        "014"
+    ],
+    "epochs": 40,
+    "learning_rate": 0.0005,
+    "best_validation_auc": 0.5783022211720226,
+    "best_threshold": 0.4199999999999998,
+    "accuracy": 0.6111111111111112,
+    "mcc": 0.21197154467585974,
+    "roc_auc": 0.6522483766233766,
+    "confusion_matrix": [
+        [
+            332,
+            218
+        ],
+        [
+            83,
+            141
+        ]
+    ]
+}

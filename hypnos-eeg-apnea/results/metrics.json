@@ -1,0 +1,18 @@
+{
+    "training_subjects": [
+        "002",
+        "003",
+        "006"
+    ],
+    "validation_subjects": [
+        "010"
+    ],
+    "test_subjects": [
+        "014"
+    ],
+    "epochs": 20,
+    "learning_rate": 0.00163,
+    "accuracy": 0.48578811369509045,
+    "mcc": 0.17489981637645363,
+    "roc_auc": 0.5964366883116883
+}
